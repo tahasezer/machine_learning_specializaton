@@ -1,1 +1,1 @@
-# machine_learning_specializaton_by_Andrew_Ng
+# Machine Learning Specialization offered by DeepLearning.AI and Stanford University
